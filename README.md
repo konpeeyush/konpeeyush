@@ -1,3 +1,5 @@
+![Neon Purple and Blue Gyms Back to Business Landscape Banner](https://user-images.githubusercontent.com/91616196/147404002-18ac08e5-3a89-4831-a376-bd400afcca68.gif)
+
 <h1 align="center">Hi 👋, I'm Peeyush</h1>
 <h3 align="center">A passionate Computer Science Geek, looking forward to make amazing contibutions to the community.</h3>
 

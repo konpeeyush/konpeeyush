@@ -1,5 +1,5 @@
-![Gradient Modern Personal profile linkdekln banner](https://user-images.githubusercontent.com/91616196/147407876-489edc7d-256f-441e-a46e-e9181b951b8f.gif)
-
+<!-- ![Gradient Modern Personal profile linkdekln banner](https://user-images.githubusercontent.com/91616196/147407876-489edc7d-256f-441e-a46e-e9181b951b8f.gif)
+ -->
 
 ![Neon Purple and Blue Gyms Back to Business Landscape Banner](https://user-images.githubusercontent.com/91616196/147404002-18ac08e5-3a89-4831-a376-bd400afcca68.gif)
 

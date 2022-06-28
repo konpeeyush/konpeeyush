@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **my Data Structures and Algorithms.**
 
-- 🌱 I’m currently learning **Machine Learning and Computer Vision.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 👯 I’m looking to collaborate on **Google Summer of Code 2023**
 
@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/konpeeyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konpeeyush" height="30" width="40" /></a>
 <a href="https://instagram.com/konpeeyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="konpeeyush" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/konpeeyush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="konpeeyush" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/konpeeyush/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="konpeeyush" height="30" width="40" /></a>
 </p>
 
 

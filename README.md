@@ -13,17 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konpeeyush" alt="konpeeyush" /></a> </p>
 
-- 🔭 I’m currently working on **my Data Structures and Algorithms.**
-
-- 🌱 I’m currently learning **Web Development.**
-
-- 👯 I’m looking to collaborate on **Google Summer of Code 2023**
-
-- 📝 I ocassionaly write articles on [philosohpy.](philosohpy.)
-
-- 📫 How to reach me **piyushksingh2589@gmail.com**
-
-- ⚡ Fun fact **I am kinda funny though.**
+- 📫 Reach me **piyushksingh2589@gmail.com**
 
 ![Simple Technology LinkedIn Banner](https://user-images.githubusercontent.com/91616196/147405559-e6ef0331-8faa-41f6-b562-de55982fde7e.gif)
 
